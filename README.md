@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YugPal273
 - 👀 I’m interested in App Development & Semiconductor Design
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning IoT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
