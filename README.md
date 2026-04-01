@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @YugPal273
+- 👋 Hi, I’m Yug Pal
 - 👀 I’m interested in App Development & Semiconductor Design
 - 🌱 I’m currently learning IoT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 YugPal273/YugPal273 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
